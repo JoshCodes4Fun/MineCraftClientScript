@@ -1,0 +1,11 @@
+# Enter faction chat
+perform /f c f
+
+# Main loop
+listen chat:
+    /f who Kryptic
+    if contains "(inactive)":
+        # Display reminder message every 5 minutes
+            display "Check walls you silly bitches"
+
+

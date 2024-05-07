@@ -1,0 +1,4 @@
+send /server factionsimmortal
+send /f c f
+send Buffers must be checked every 5 minutes *WHILE* (!well) our shield is offline. "/f warp check".
+send Update discord when complete.
